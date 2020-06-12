@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hello World</title>
+	</head>
+	<body>
+		<div>
+			<h1>Welcome To The Page</h1>
+		</div>
+		<div>
+			<p>This is my second webpage made. <br />I hope you like it</p>
+		</div>
+		<div>
+			<p> This is the second paragraph on the page</p>
+		</div>
+		<hr />
+		<div>
+			<h2>Let us Dive In</h2>
+		</div>
+		<div><a href="http://google.com">Click Here To Start</a></div>
+		<ul>
+			<li>Item 1</li>
+			<li>Item 2</li>
+		</ul>
+		<ol>
+			<li>Item 1</li>
+			<li>Item 2</li>
+		</ol>
+			
+		<img src=“file:///Users/nivlem/Desktop/Coding/image.bmp” width="500" height="500" alt="my piano" />
+		<div>Copyright &copy; 2020 Melvin Morales</div>
+	</body>
+</html>
